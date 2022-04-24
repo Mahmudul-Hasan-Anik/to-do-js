@@ -1,0 +1,16 @@
+ul{
+    list-style: none;
+}
+.listContent{
+    padding-left: 10px;
+}
+.delete{
+    display: none;
+    background-color: #eb2438;
+    color: white;
+    border-radius: 5px;
+    float: right;
+    width: 80px;
+    border: none;
+    padding: 5px;
+}
